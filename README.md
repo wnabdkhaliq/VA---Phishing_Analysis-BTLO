@@ -13,6 +13,7 @@ Originating IP: 103.9.171.10
 <img width="720" height="128" alt="1-Recipient" src="https://github.com/user-attachments/assets/6edb9299-2917-4d5f-b658-9770c0885b16" />
 
 **2. Infrastructure Investigation**
+
 Reverse DNS lookup was performed on the originating IP address.
 
 Resolved Host: **c5s2-1e-syd.hosting-services.net.au**
@@ -20,6 +21,7 @@ Resolved Host: **c5s2-1e-syd.hosting-services.net.au**
 <img width="556" height="146" alt="2-Originating IP" src="https://github.com/user-attachments/assets/6468c597-16df-4a5b-b493-88947ff27778" />
 
 **3. Attachment and URL Analysis**
+
 The .eml file was opened using Thunderbird to extract embedded information.
 
 Attached File: **Website contact form submission.eml**
@@ -35,6 +37,7 @@ Hosting Service: The URL is hosted on the Blogger (Blogspot) platform.
 <img width="963" height="140" alt="6-Blogspot" src="https://github.com/user-attachments/assets/a296de2c-da48-4ef9-87f7-5a319268f60a" />
 
 **4. Verification**
+
 The URL was processed using **URL2PNG** to capture the page state.
 
 Result: The page displayed "Blog has been removed," confirming the malicious site had been taken down.
