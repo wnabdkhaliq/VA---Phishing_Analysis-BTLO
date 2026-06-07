@@ -16,6 +16,8 @@ Reverse DNS lookup was performed on the originating IP address.
 
 Originating IP: 103.9.171.10
 
+<img width="556" height="146" alt="2-Originating IP" src="https://github.com/user-attachments/assets/278c400b-5f4e-4d45-a802-ac3029bd4645" />
+
 Resolved Host: **c5s2-1e-syd.hosting-services.net.au**
 
 <img width="1536" height="840" alt="3-Whois_DomainTools" src="https://github.com/user-attachments/assets/e1fcc1fc-4472-41c7-8f0c-71efba00008d" />
