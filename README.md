@@ -24,7 +24,7 @@ Resolved Host: **c5s2-1e-syd.hosting-services.net.au**
 
 **3. Attachment and URL Analysis**
 
-The .eml file was opened using Thunderbird to extract embedded information.
+The email contains one attachment.
 
 Attached File: **Website contact form submission.eml**
 
