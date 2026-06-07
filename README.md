@@ -8,13 +8,13 @@ Subject: "Undeliverable: Website contact form submission"
 
 Timestamp: 18 March 2021, 04:14 
 
-Originating IP: 103.9.171.10
-
 <img width="720" height="128" alt="1-Recipient" src="https://github.com/user-attachments/assets/6edb9299-2917-4d5f-b658-9770c0885b16" />
 
 **2. Infrastructure Investigation**
 
 Reverse DNS lookup was performed on the originating IP address.
+
+Originating IP: 103.9.171.10
 
 Resolved Host: **c5s2-1e-syd.hosting-services.net.au**
 
