@@ -22,9 +22,7 @@ Resolved Host: **c5s2-1e-syd.hosting-services.net.au**
 
 <img width="1536" height="840" alt="3-Whois_DomainTools" src="https://github.com/user-attachments/assets/e1fcc1fc-4472-41c7-8f0c-71efba00008d" />
 
-**3. Attachment and URL Analysis**
-
-The email contains one attachment.
+**3. Attachment and URL**
 
 Attached File: **Website contact form submission.eml**
 
