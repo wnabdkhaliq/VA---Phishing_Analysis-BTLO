@@ -3,9 +3,13 @@ BTLO - Phishing_Analysis
 I downloaded the file and open it as text editor, then I searched for recipient,subject,timestamp and Originating IP.
 
 **1. Email Header Analysis**
+
 Recipient: kinnar1975@yahoo.co.uk
-Subject: "Undeliverable: Website contact form submission"\
+
+Subject: "Undeliverable: Website contact form submission"
+
 Timestamp: 18 March 2021, 04:14 
+
 Originating IP: 103.9.171.10
 
 <img width="720" height="128" alt="1-Recipient" src="https://github.com/user-attachments/assets/6edb9299-2917-4d5f-b658-9770c0885b16" />
