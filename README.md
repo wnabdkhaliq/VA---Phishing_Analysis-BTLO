@@ -18,7 +18,7 @@ Originating IP: 103.9.171.10
 
 Resolved Host: **c5s2-1e-syd.hosting-services.net.au**
 
-<img width="556" height="146" alt="2-Originating IP" src="https://github.com/user-attachments/assets/6468c597-16df-4a5b-b493-88947ff27778" />
+<img width="1536" height="840" alt="3-Whois_DomainTools" src="https://github.com/user-attachments/assets/e1fcc1fc-4472-41c7-8f0c-71efba00008d" />
 
 **3. Attachment and URL Analysis**
 
