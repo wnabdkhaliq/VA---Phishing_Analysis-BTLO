@@ -28,7 +28,7 @@ Attached File: **Website contact form submission.eml**
 
 <img width="430" height="213" alt="4-Website Contact Form" src="https://github.com/user-attachments/assets/26be7b78-d8e3-4f34-a24a-50a40af6fa5b" />
 
-The URL was identified within the text editor: **[https://35000usdperwwekpodf.blogspot.sg](https://35000usdperwwekpodf.blogspot.sg)**
+The URL was identified within the text editor: **[[https://35000usdperwwekpodf.blogspot.sg](https://35000usdperwwekpodf.blogspot.sg)](https://35000usdperwwekpodf.blogspot.sg?p=3D9swghttps://35000usdperww= ekpodf.blogspot.co.il?o=3D0hnd)**
 
 <img width="783" height="112" alt="5-URL" src="https://github.com/user-attachments/assets/61d672f1-b685-416d-a511-e09a6a41ee66" />
 
