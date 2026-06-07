@@ -1,4 +1,5 @@
 BTLO - Phishing_Analysis
+
 I downloaded the file and open it as text editor, then I searched for recipient,subject,timestamp and Originating IP.
 
 **1. Email Header Analysis**
